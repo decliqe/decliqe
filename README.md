@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rvrxd007
 - 👀 I’m interested in you
 - 🌱 I’m currently learning about you 
-- 💞️ I’m looking to collaborate on you 
+- 💞️ I’m looking to collaborate with you 
 - 📫 How to reach me with you 
 - 😄 Pronouns: you 
 - ⚡ Fun fact: thinking about you 
