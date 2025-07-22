@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @rvrxd007
-- 👀 I’m interested in you
+- 👋 Hi, I’m a Creator
+- 👀 interested in you
 - 🌱 I’m currently learning about you 
 - 💞️ I’m looking to collaborate with you 
-- 📫 How to reach me with you 
-- 😄 Pronouns: you 
-- ⚡ Fun fact: thinking about you 
+- 📫 reach me online
+- 😄 Pronounced: reversed
+- ⚡ Fun fact: thinking about you
 
 <!---
 rvrxd007/rvrxd007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
